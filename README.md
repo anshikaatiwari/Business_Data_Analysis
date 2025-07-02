@@ -5,7 +5,7 @@ parts and also provides repairing services.
 The steps followed during Data Analysis Process are:
 1. Data Collection
 2. Data Cleaning
-3. Data Classification
+3. Data Modification 
 4. Data Visualization
 5. Data Analysis and Results
 6. Recommendations for the Business
